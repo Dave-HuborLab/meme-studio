@@ -1,0 +1,21 @@
+{
+  "meme": "Tool che sembra magia",
+  "formato": "Setup banale → risultato sproporzionato. La battuta sta nello scarto.",
+  "fonte": "",
+  "caption": "Non ti serve un altro tool.\nTi serve una sequenza che fa il lavoro mentre tu non ci sei.",
+  "hashtags": ["intelligenzaartificiale", "automazione", "digitalalkemist"],
+  "cta": "Salva il post e prova la sequenza questa settimana.",
+  "canzoni": [
+    {
+      "titolo": "Midnight City",
+      "artista": "M83",
+      "perche": "Energia notturna, adatta a caroselli tool/AI"
+    }
+  ],
+  "slides": [
+    { "testo": "Il tool non è il vantaggio.\nLo è la sequenza.", "nota": "Cover. Poco testo, grande." },
+    { "testo": "La maggior parte copia i prompt.\nQuasi nessuno copia il processo.", "nota": "Contrasto." },
+    { "testo": "1. Input fisso\n2. Passaggio automatico\n3. Output già pronto da pubblicare", "nota": "Lista numerata." },
+    { "testo": "Se lo rifai a mano ogni volta\nnon è un sistema.\nÈ un hobby costoso.", "nota": "Chiusura." }
+  ]
+}
